@@ -13,7 +13,7 @@ $ cd ~/catkin_ws/
 $ catkin_make
 ```
 ## Launching the package
-robot/launch contains launch files to launch the package with different sensors. All launch files require at least the MonsterBorg itself as well as a controller.
+'launch'-directory contains launch files to launch the package with different sensors. All launch files require at least the MonsterBorg itself as well as a controller. The MonsterBorg itself should be used as a ROS master.
 Example of launch file usage:
 
 ```console
