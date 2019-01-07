@@ -1,5 +1,5 @@
 # ROS-package for MonsterBorg
-This repository contains a ROS-package for controlling and communicating with MonsterBorg, equipped with a LiDAR, Inertial Measurement Unit (IMU), and a IR fisheye camera.
+This repository contains a ROS-package for controlling and communicating with MonsterBorg, equipped with a LiDAR, Inertial Measurement Unit (IMU), a IR fisheye camera and (wireless) USB controller support.
 
 <img src="images/MBorg.jpg" alt="MonsterBorg equipped with 
 Lidar/IMU/Camera"
