@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="robot" type="cameraPub.py" name="camera"/>
+    <node pkg="robot" type="JoystickControl.py" name="joystick"/>
+</launch>

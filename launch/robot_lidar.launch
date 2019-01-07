@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="robot" type="lidarPub.py" name="lidar"/>
+    <node pkg="robot" type="JoystickControl.py" name="joystick"/>
+</launch>
