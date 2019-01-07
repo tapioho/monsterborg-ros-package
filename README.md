@@ -1,5 +1,5 @@
 # ROS-package for MonsterBorg
-The 'robot'-directory contains a ROS-package for the controlling and communicating with MonsterBorg.
+This repository contains a ROS-package for controlling and communicating with MonsterBorg, equipped with a LiDAR, Inertial Measurement Unit (IMU), and a IR fisheye camera.
 
 <img src="images/MBorg.jpg" alt="MonsterBorg equipped with 
 Lidar/IMU/Camera"
